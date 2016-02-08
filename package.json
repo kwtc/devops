@@ -1,0 +1,17 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kasper Christiansen",
+  "license": "ISC",
+  "dependencies": {
+      "express": "3.2.4",
+      "jade": "1.11.0",
+      "mocha": "1.20.1",
+      "supertest": "1.1.0"
+  }
+}
